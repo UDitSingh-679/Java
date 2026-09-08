@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UDitSingh-679/Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UDitSingh-679/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0283-move-zeroes) |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/UDitSingh-679/Java/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
