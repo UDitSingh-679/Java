@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UDitSingh-679/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/UDitSingh-679/Java/tree/master/0724-find-pivot-index) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UDitSingh-679/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UDitSingh-679/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/UDitSingh-679/Java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/UDitSingh-679/Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -41,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UDitSingh-679/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/UDitSingh-679/Java/tree/master/0152-maximum-product-subarray) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
