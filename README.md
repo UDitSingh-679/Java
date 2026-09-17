@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UDitSingh-679/Java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UDitSingh-679/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UDitSingh-679/Java/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/UDitSingh-679/Java/tree/master/0905-sort-array-by-parity) |
