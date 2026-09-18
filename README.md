@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UDitSingh-679/Java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UDitSingh-679/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UDitSingh-679/Java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UDitSingh-679/Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
