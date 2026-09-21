@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UDitSingh-679/Java/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/UDitSingh-679/Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UDitSingh-679/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UDitSingh-679/Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UDitSingh-679/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UDitSingh-679/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UDitSingh-679/Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
