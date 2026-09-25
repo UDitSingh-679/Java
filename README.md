@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/UDitSingh-679/Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UDitSingh-679/Java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UDitSingh-679/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UDitSingh-679/Java/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/UDitSingh-679/Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/UDitSingh-679/Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/UDitSingh-679/Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/UDitSingh-679/Java/tree/master/0217-contains-duplicate) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UDitSingh-679/Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UDitSingh-679/Java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
