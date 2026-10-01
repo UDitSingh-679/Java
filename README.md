@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/UDitSingh-679/Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/UDitSingh-679/Java/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/UDitSingh-679/Java/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/UDitSingh-679/Java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/UDitSingh-679/Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/UDitSingh-679/Java/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/UDitSingh-679/Java/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/UDitSingh-679/Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UDitSingh-679/Java/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/UDitSingh-679/Java/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -171,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UDitSingh-679/Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/UDitSingh-679/Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/UDitSingh-679/Java/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
