@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/UDitSingh-679/Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UDitSingh-679/Java/tree/master/0152-maximum-product-subarray) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UDitSingh-679/Java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UDitSingh-679/Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
 | [0205-isomorphic-strings](https://github.com/UDitSingh-679/Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UDitSingh-679/Java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/UDitSingh-679/Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UDitSingh-679/Java/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
