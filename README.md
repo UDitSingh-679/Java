@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/UDitSingh-679/Java/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/UDitSingh-679/Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
@@ -201,5 +202,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UDitSingh-679/Java/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/UDitSingh-679/Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
