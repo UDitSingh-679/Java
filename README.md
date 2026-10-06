@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UDitSingh-679/Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UDitSingh-679/Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/UDitSingh-679/Java/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/UDitSingh-679/Java/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/UDitSingh-679/Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UDitSingh-679/Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UDitSingh-679/Java/tree/master/0054-spiral-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UDitSingh-679/Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
