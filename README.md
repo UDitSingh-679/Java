@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/UDitSingh-679/Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/UDitSingh-679/Java/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/UDitSingh-679/Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UDitSingh-679/Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UDitSingh-679/Java/tree/master/0152-maximum-product-subarray) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UDitSingh-679/Java/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/UDitSingh-679/Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/UDitSingh-679/Java/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/UDitSingh-679/Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/UDitSingh-679/Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/UDitSingh-679/Java/tree/master/0205-isomorphic-strings) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UDitSingh-679/Java/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/UDitSingh-679/Java/tree/master/0073-set-matrix-zeroes) |
 ## Bracket Sequences
 |  |
 | ------- |
