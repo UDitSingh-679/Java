@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UDitSingh-679/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/UDitSingh-679/Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/UDitSingh-679/Java/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/UDitSingh-679/Java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/UDitSingh-679/Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/UDitSingh-679/Java/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/UDitSingh-679/Java/tree/master/0905-sort-array-by-parity) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/UDitSingh-679/Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UDitSingh-679/Java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/UDitSingh-679/Java/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/UDitSingh-679/Java/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/UDitSingh-679/Java/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/UDitSingh-679/Java/tree/master/0068-text-justification) |
+| [0682-baseball-game](https://github.com/UDitSingh-679/Java/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
